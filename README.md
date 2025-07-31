@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hi, I'm Sruthi Dasari! 
+#### **Information Processing Specialist at TCS | Aspiring IT Developer**
 
-<!--
-**SruthiDasari2002/SruthiDasari2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Currently working in **TCS**, supporting **DHL UK Imports Project**  
+🔹 Hands-on experience with **Citrix Workspace, AS400, Outlook, MS Excel**  
+🔹 Passionate about transitioning into the **IT Industry**  
+🔹 Skilled in **HTML, CSS, JavaScript, Java, Python**  
+🔹 Completed internships in **Salesforce Development**, **Data Analytics**, and **Process Automation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>I am a proficient Computer Science postgraduate (MCA) with a passion for developing impactful web solutions and automation. I thrive in dynamic environments and continuously seek opportunities to grow in full-stack and data-centric roles.</h4>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sruthidasari1257&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sruthidasari1257&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h3 align="left">📫 How to reach me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sruthidasari1257/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:sruthidasari1257@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Skills & Tools:</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthidasari1257&" alt="GitHub Streak Stats" /></p>
+
