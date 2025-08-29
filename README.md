@@ -44,5 +44,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthidasari1257&" alt="GitHub Streak Stats" /></p>
 
