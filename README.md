@@ -11,11 +11,6 @@
 
 <h4>I am a proficient Computer Science postgraduate (MCA) with a passion for developing impactful web solutions and automation. I thrive in dynamic environments and continuously seek opportunities to grow in full-stack and data-centric roles.</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sruthidasari1257&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sruthidasari1257&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
 ---
 
 <h3 align="left">📫 How to reach me:</h3>
